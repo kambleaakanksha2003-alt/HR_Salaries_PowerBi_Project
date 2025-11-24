@@ -6,3 +6,17 @@ This repository contains the HR_Salaries.pbix file, a Power BI report designed t
 
 ![HR](https://github.com/user-attachments/assets/54900d7d-203d-453c-ad28-74815088c09a)
 
+---
+
+# 🎯 Project Goal
+
+The primary objective of this report is to empower HR professionals and management with data-driven insights to:
+
+Analyze average salaries by department, job role, and employment status.
+
+Identify salary discrepancies or pay gaps.
+
+Track compensation trends over time.
+
+Support budget planning and resource allocation.
+
