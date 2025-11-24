@@ -20,3 +20,26 @@ Track compensation trends over time.
 
 Support budget planning and resource allocation.
 
+---
+
+# 💻 Report Visuals and Key Insights
+The Power BI report contains several pages, each focusing on a different aspect of the salary data.
+
+1. 📈 Compensation Overview 
+This page provides a high-level summary of the entire dataset.
+
+Key Metrics: Total Employee Count, Overall Average Salary, Total Salary Expenditure.
+
+Visuals: Card visuals for key metrics, a bar chart showing Average Salary by Department, and a treemap showing Salary Expenditure by Department.
+
+# 2. 🗺️ Salary Distribution 
+This page focuses on how salaries are distributed across various categories.
+
+Visuals: A histogram or box plot illustrating the distribution of salaries (identifying outliers), and a bar chart breaking down Average Salary by Job Title.
+
+Filters: Enables filtering by Employment Status (Full-time, Part-time, Contract, etc.).
+
+# 3. 🔍 Trend Analysis 
+Visuals: A line chart showing Average Salary Trend over time (e.g., by hiring year or fiscal year).
+
+Key Insight: Helps in understanding how the company's compensation has evolved, which is crucial for market competitiveness.
