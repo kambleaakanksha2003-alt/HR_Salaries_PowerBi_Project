@@ -69,5 +69,16 @@ Power Query (M language) for data cleansing and transformation.
 
 ---
 
+# 🛠️ Tool Used
+
+<img width="768" height="432" alt="Power-Bi-napis-768x4321-1" src="https://github.com/user-attachments/assets/924b2486-0db1-437c-816d-a77ac1f2dfa1" />
+
+---
+
+# ✅ Conclusion
+The HR Salaries Power BI report provides a crucial, data-centric view of the organization's compensation landscape. The analysis points to areas of strong compensation but also highlights potential risks related to internal equity and market competitiveness.
+By implementing the suggested recommendations—focusing on standardizing pay grades and adjusting strategy based on clear trends—the organization can ensure a fair, transparent, and financially sustainable compensation model
+
+
 
 
