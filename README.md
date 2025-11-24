@@ -1,1 +1,1 @@
-# HR_Salaries_PowerBi_Project
+# 📊 HR Salaries Power BI Project
